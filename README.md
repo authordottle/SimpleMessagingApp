@@ -1,5 +1,5 @@
 
-# Message App
+# Messaging App
 #### Jiaqian Huang.2366
 
 # What makes it
