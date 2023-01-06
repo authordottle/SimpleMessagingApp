@@ -27,25 +27,25 @@ python3 client.py
 
 3. To login:
 ```
-login username password
+login {username} {password}
 ```
 **Notice: A notification will pop up to warn the user if the user inputs a non-existed userID or wrong password.
 
 4. To register:
 ```
-register username password
+register {username} {password}
 ```
 **Notice: A notification will pop up to warn the user if the userID already existed.
 
 5. After login send the message:
 ```
-msg username message_data
+msg {username} {message_data}
 ```
 **Notice: A notification will pop up to warn the user if the user is not logged in or is not online.
 
 6. To log out:
 ```
-logout username
+logout {username}
 ```
 ** Notice: Still need to use the ^C to stop the client.py in this terminal, logout command line here only helps make user offline.
 
