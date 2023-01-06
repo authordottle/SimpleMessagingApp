@@ -10,7 +10,7 @@
 <br />** Notice: If multiple clients run on the local IP, users can check their messages in the terminal clearly after closing the window in case they don't know whom those windows belong to. If clients run on different laptops, windows can be enough.
 
 # Prerequisite
-1. python3
+1. Version: python3 <=
 2. Same MAC/Linux Only
 
 # How to start
