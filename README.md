@@ -10,18 +10,18 @@
 <br />** Notice: If multiple clients run on the local IP, users can check their messages in the terminal clearly after closing the window in case they don't know whom those windows belong to. If clients run on different laptops, windows can be enough.
 
 # Prerequisite
-1. Version: python3
+1. Version: python3 <=
 2. Same MAC/Linux Only
 
 # How to start
 1. ln the terminal, cd into server folder and open the server.py
 ```
-python3 server.py
+{versionOfPython} server.py
 ```
 
 2. ln another terminal, cd into server folder and open the client.py
 ```
-python3 client.py
+{versionOfPython} client.py
 ```
 ** Notice: More connections can be made by adding running client.py in other terminals.
 
