@@ -51,5 +51,6 @@ logout {username}
 
 <br />** Notice: Assume no same user logged into the different terminals, command line inputs are following the format above
 
-
+# Feedback
+#### Need to allow client on machine 1, client on machine 2, server on machine 3, which means the client will ask the IP (and port) of server.
 
