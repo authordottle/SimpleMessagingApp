@@ -1,6 +1,6 @@
 
 # Messaging App
-#### Jiaqian Huang.2366
+#### J H
 
 # What makes it
 #### Files: one client.py, one server.py, and db.txt for database
