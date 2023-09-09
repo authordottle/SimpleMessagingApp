@@ -4,7 +4,7 @@
 
 # What makes it
 #### Files: one client.py, one server.py, and db.txt for database
-#### UI: Tkinter 
+#### UI: [Tkinter](https://docs.python.org/3/library/tkinter.html) 
 
 <br />** Notice: In this project, the notification will pop up in the window. The user needs to turn off the window to see the next message. 
 <br />** Notice: If multiple clients run on the local IP, users can check their messages in the terminal clearly after closing the window in case they don't know whom those windows belong to. If clients run on different laptops, windows can be enough.
